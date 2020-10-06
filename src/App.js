@@ -4,7 +4,7 @@ import Landing from './Pages/Landing'
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route  exact path="/" component={Landing} />
       </Switch>
