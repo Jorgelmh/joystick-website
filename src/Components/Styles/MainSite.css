@@ -1,0 +1,57 @@
+/* 
+    =========================================
+        Styles for the Main Site => Start
+    =========================================
+*/
+
+.clearfix:before,
+.clearfix:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+html{
+    box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+.container{
+    margin: auto;
+    max-width: 1200px;
+}
+
+.main-site{
+    padding: 10px;
+}
+
+canvas{
+    width: 100%;
+    box-sizing: content-box;
+    height: 300px;
+}
+.start-information{
+    padding: 40px;
+}
+
+.start-information p{
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+@media(min-width: 768px){
+    .canvas-div{
+        width: 40%;
+        float: left;
+    }
+
+    .joystick-data{
+        width: 60%;
+        float: left;
+    }
+}

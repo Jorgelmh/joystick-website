@@ -1,0 +1,17 @@
+/* 
+    ==========================
+           site-Footer
+    ==========================
+*/
+
+.site-footer{
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+    background: linear-gradient(180deg, rgba(85,33,230,1) 0%, rgb(216, 126, 252) 100%);
+    padding: 20px;
+}
+
+.heart{
+    color: red;
+}

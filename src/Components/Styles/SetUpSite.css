@@ -1,0 +1,16 @@
+/* 
+    ==========================
+            Set Up Site
+    ==========================
+*/
+
+p.download-latest-release{
+    display: list-item;          
+    list-style-type: disc;       
+    list-style-position: inside;
+    font-size: 1.6rem;
+    padding: 20px;
+    text-align: center;
+}
+
+
