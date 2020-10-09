@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/joystick-website/precache-manifest.ec2481e74419de5f83394ca0ba4b362a.js"
+  "/joystick-website/precache-manifest.f10380cc5ea099947cd8ffbca5fb3bab.js"
 );
 
 self.addEventListener('message', (event) => {
