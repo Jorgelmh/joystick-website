@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "187235c2ddeb041d0270063f377e1370",
+    "revision": "d677b1fa24a51618bd9fae3e8af9a5e2",
     "url": "/joystick-website/index.html"
   },
   {
-    "revision": "5a8cc9fcb859cf36b2ec",
+    "revision": "afdc57333baf80bb4251",
     "url": "/joystick-website/static/css/main.bff42b8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joystick-website/static/js/2.0e656cd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a8cc9fcb859cf36b2ec",
-    "url": "/joystick-website/static/js/main.5339fdc1.chunk.js"
+    "revision": "afdc57333baf80bb4251",
+    "url": "/joystick-website/static/js/main.4b7a3ce4.chunk.js"
   },
   {
     "revision": "ea6e54efe56b06c4eadb",
