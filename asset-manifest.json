@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/joystick-website/static/css/main.bff42b8f.chunk.css",
-    "main.js": "/joystick-website/static/js/main.4b7a3ce4.chunk.js",
-    "main.js.map": "/joystick-website/static/js/main.4b7a3ce4.chunk.js.map",
-    "runtime-main.js": "/joystick-website/static/js/runtime-main.d985c55c.js",
-    "runtime-main.js.map": "/joystick-website/static/js/runtime-main.d985c55c.js.map",
-    "static/js/2.0e656cd7.chunk.js": "/joystick-website/static/js/2.0e656cd7.chunk.js",
-    "static/js/2.0e656cd7.chunk.js.map": "/joystick-website/static/js/2.0e656cd7.chunk.js.map",
-    "index.html": "/joystick-website/index.html",
-    "precache-manifest.2daf86ce8d7bf12187e9826dc95bfeda.js": "/joystick-website/precache-manifest.2daf86ce8d7bf12187e9826dc95bfeda.js",
-    "service-worker.js": "/joystick-website/service-worker.js",
-    "static/css/main.bff42b8f.chunk.css.map": "/joystick-website/static/css/main.bff42b8f.chunk.css.map",
-    "static/js/2.0e656cd7.chunk.js.LICENSE.txt": "/joystick-website/static/js/2.0e656cd7.chunk.js.LICENSE.txt"
+    "main.css": "/touch-joystick-website/static/css/main.bff42b8f.chunk.css",
+    "main.js": "/touch-joystick-website/static/js/main.b453231c.chunk.js",
+    "main.js.map": "/touch-joystick-website/static/js/main.b453231c.chunk.js.map",
+    "runtime-main.js": "/touch-joystick-website/static/js/runtime-main.80e49607.js",
+    "runtime-main.js.map": "/touch-joystick-website/static/js/runtime-main.80e49607.js.map",
+    "static/js/2.0e656cd7.chunk.js": "/touch-joystick-website/static/js/2.0e656cd7.chunk.js",
+    "static/js/2.0e656cd7.chunk.js.map": "/touch-joystick-website/static/js/2.0e656cd7.chunk.js.map",
+    "index.html": "/touch-joystick-website/index.html",
+    "precache-manifest.c587744a7331b5034d2d6735b9dd991b.js": "/touch-joystick-website/precache-manifest.c587744a7331b5034d2d6735b9dd991b.js",
+    "service-worker.js": "/touch-joystick-website/service-worker.js",
+    "static/css/main.bff42b8f.chunk.css.map": "/touch-joystick-website/static/css/main.bff42b8f.chunk.css.map",
+    "static/js/2.0e656cd7.chunk.js.LICENSE.txt": "/touch-joystick-website/static/js/2.0e656cd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d985c55c.js",
+    "static/js/runtime-main.80e49607.js",
     "static/js/2.0e656cd7.chunk.js",
     "static/css/main.bff42b8f.chunk.css",
-    "static/js/main.4b7a3ce4.chunk.js"
+    "static/js/main.b453231c.chunk.js"
   ]
 }
